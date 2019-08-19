@@ -1,3 +1,12 @@
+You started off good with your Quiz class so good job there, but seemed to get bogged down writing the code to use it.
+
+You must pay attention to the details in the requirements as it will make things easier. For example, the requirements said that there should be more than one available answer stored in an array.
+
+I think missing some of the requirements for the class is what may have caused you issues later. 
+
+Also, review information on Classes in JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+
 # Build a Simple Quiz Program
 
 ## Weekly Project (Total 10 points)
